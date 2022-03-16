@@ -1,4 +1,4 @@
 Como pegar o arquivo da master remotamente e para utilizar em uma branch remota?
 o colaboraodor pode criar branches em um nivel hieraquico menor?
-Como apagar uma branch?
+Como apagar uma branch? R: git branch -D <nome da branch>
 Como apagar um diretorio  ou o arwquivo no repositorio remoto?
